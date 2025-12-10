@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Put the image file at assets/images/bridging-research-and-practice.jpg (lowercase, dashes) -->
-  <img src="{{ site.baseurl }}/assets/images/bridging-research-and-practice.jpg"
+  <img src="{{ site.baseurl }}/assets/images/bridging-research-and-practice.png"
        alt="intro image here"
        style="width:75%; max-width:900px; display:block; margin:0 auto;" />
 </p>
