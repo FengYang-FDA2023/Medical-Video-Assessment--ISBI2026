@@ -1,6 +1,7 @@
 ---
 Workshop on ISBI 2026: Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice
 ---
+{% include figure.html img="Bridging Research and Practice.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 # ISBI Workshop 2026: Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice
 
