@@ -1,7 +1,3 @@
-# Jekyll workshop-template evanwill
-# https://github.com/evanwill/workshop-template
-# based on minima theme https://github.com/jekyll/minima
-
 # Notes: 
 # - pages with "nav: true" in front matter will be in header nav
 # - figure include for centered images, put file in images directory and use: {% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
@@ -11,7 +7,7 @@
 title: ISBI Workshop 2026: Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice
 # description and keywords for meta tags
 description: "The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. These areas present unique challenges, including frame-to-frame variability, motion artifacts, and temporal consistency. We aim to foster dialogue among researchers, clinicians, and regulators to discuss technical and regulatory challenges and help to reduce the gap between development of novel AI technologies and their clinical adoption. We will discuss the development of regulatory science tools, testing methods, and metrics for assessing AI-assisted devices. !"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+# keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
 author: Feng Yang
