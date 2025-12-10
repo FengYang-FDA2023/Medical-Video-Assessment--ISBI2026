@@ -7,7 +7,7 @@
        alt="intro image here"
        style="width:75%; max-width:900px; display:block; margin:0 auto;" />
 </p>
-
+{% include figure.html img="BridgingResearchandPractice.png" alt="intro image here" width="75%" %}
 # ISBI Workshop 2026: Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice
 
 <p>
