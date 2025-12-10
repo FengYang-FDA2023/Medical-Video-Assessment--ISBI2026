@@ -1,13 +1,10 @@
 <!-- Use site.baseurl so paths work correctly on GitHub Pages -->
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
-
 <p align="center">
-  <!-- Put the image file at assets/images/bridging-research-and-practice.jpg (lowercase, dashes) -->
-  <img src="{{ site.baseurl }}/assets/images/BridgingResearchandPractice.png"
-       alt="intro image here"
+  <img src="{{ site.baseurl }}/images/BridgingResearchandPractice.png"
+       alt="Bridging research and practice"
        style="width:75%; max-width:900px; display:block; margin:0 auto;" />
 </p>
-{% include figure.html img="BridgingResearchandPractice.png" alt="intro image here" width="75%" %}
+
 # ISBI Workshop 2026: Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice
 
 <p>
